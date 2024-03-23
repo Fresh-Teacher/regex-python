@@ -1,0 +1,10 @@
+Safe:
+Hello, World!
+This is a safe string.
+No special characters here.
+Just some plain text.
+
+Unsafe:
+Hello; DROP TABLE users
+This string has a 'quote'
+"Double quotes" can be harmful too.

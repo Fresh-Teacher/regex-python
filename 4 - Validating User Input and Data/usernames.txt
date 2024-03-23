@@ -1,0 +1,13 @@
+Valid:
+Mary123
+bob_jones
+Chuck_9
+d3veloper
+Ali_007
+
+Invalid:
+123Mary
+!bob_jones
+Chuck@9
+d3veloper$
+Ali#007
